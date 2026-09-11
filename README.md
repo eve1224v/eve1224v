@@ -33,5 +33,5 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eve1224v&show_icons=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=eve1224v&show_icons=true" />
 </div>
