@@ -13,4 +13,6 @@
           <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
           </div>
     </div>
+    # GitHub 평판을 나타내는 위젯
+[![eve1224v's GitHub stats](https://github-readme-stats.vercel.app/api?username=eve1224v)](https://github.com/eve1224v/github-readme-stats)
     
